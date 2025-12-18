@@ -1,0 +1,41 @@
+
+/*h1{
+    color: rgb(161, 19, 19)!important;
+}
+
+/*box{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    margin: 20px;
+    padding: 20px;
+    color: azure;
+    align-content: center;
+    text-align: center;
+}
+body{
+    background-color: blanchedalmond;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbvKORsbQ5Hajbf6kxf5aITbTb6K8Ra72qkg&s);
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-attachment: fixed;
+}*/
+/*h1{font: size 300px;;
+
+}
+#input{
+    border: 20px;
+    border-radius:30px;
+}
+.circle{
+    border: 10px solid;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}*/
+h1,h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
